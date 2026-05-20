@@ -1,4 +1,4 @@
-# DeepSeek V4 用户反馈意见汇总报告 @20250520
+# DeepSeek V4 用户反馈意见汇总报告 @20260520
 
 <callout emoji="📊" background-color="light-blue">数据来源：小红书帖子 6a0ac4ce000000003601e8f6 评论区（500+ 条含楼中楼）｜用户群体：API/酒馆角色扮演、情感陪伴、小说创作用户｜截至 2026年5月</callout>
 
